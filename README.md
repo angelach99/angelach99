@@ -1,14 +1,16 @@
 # 👋 Hello, 你好，Bonjour
 
 ## 🌱 About me 
-I am an incoming data scientist with previous internship experience as data analyst and business intelligence developer. 
-I have a Master's degree in Management Analytics from McGill University, and Bachelor's degree in Mathematics and Economics from the University of Toronto. 
-I enjoy working with numbers and mathematical logic, and I am passionate about programming and statistical/ML modeling.
-Currently I am learning website development and operating systems, and hoping to switch to software development role in a year or two. 
-On my free time, I like doing Muay Thai, outdoor activities, and photography!
+Reliable, creative, and passionate would be the three words to best describe me.
+
+I am Angela, a recent graduate from the program of Master of Management in Analytics at McGill University. I have an undergrad education background in Mathematics, Economics, and Statistics from the University of Toronto. I currently work as a Data Science Developer at Bell. 
+
+I enjoy working with data, and I like to use data to help business solve problems. While my domain knowledge is Data Science/Analytics, I grow interest in software development as I want to understand the backend infrastructure and pipeline of all the clean data that is provided to me in my daily work, hence I am currently learning software development on my free time.
+
+Outside of work, I like doing Muay Thai, travelling, and photography! ☺️
 
 ## 📫 Contact 
-Please feel free to reach me at [@angelach99 - LinkedIn](https://www.linkedin.com/in/angelach99/), or anqi.chen3@mail.mcgill.ca.
+Please feel free to reach me at [@angelach99 - LinkedIn](https://www.linkedin.com/in/angelach99/).
 
 
 <!---

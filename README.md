@@ -1,16 +1,13 @@
 # 👋 Hello, 你好，Bonjour
 
 ## 🌱 About me 
-Reliable, creative, and passionate would be the three words to best describe me.
+👋  Hello 你好, I’m Angela! I build data insights at Value Excellence team @ServiceNow
+🦾  I am skilled in building data model & pipeline, crafting automation tooling, and leading data initiatives
+😍  I am passionate about bridging the gap between data and business
+👩‍🎓  MM in Analytics @McGill and BS in Economics & Math @UofT
+🌏  Outside of work, I love traveling, rock climbing, and drawing
+🌱 Happy to connect and coffee chat！
 
-I am Angela, a recent graduate from the program of Master of Management in Analytics at McGill University. I have an undergrad education background in Mathematics, Economics, and Statistics from the University of Toronto. I currently work as a Data Science Developer at Bell. 
-
-I enjoy working with data, and I like to use data to help business solve problems. While my domain knowledge is Data Science/Analytics, I grow interest in software development as I want to understand the backend infrastructure and pipeline of all the clean data that is provided to me in my daily work, hence I am currently learning software development on my free time.
-
-Outside of work, I like doing Muay Thai, travelling, and photography! ☺️
-
-## 📫 Contact 
-Please feel free to reach me at [@angelach99 - LinkedIn](https://www.linkedin.com/in/angelach99/).
 
 
 <!---
